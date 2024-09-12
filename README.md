@@ -1,4 +1,4 @@
-# WorldWise - Track Your Travels ✈️
+# WorldWise - Track Your Travels ✈
 
 WorldWise is a web application that allows users to record and manage the places they have traveled to.
 
